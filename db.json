@@ -1,0 +1,11 @@
+{
+  "restaurants": [],
+  "users": [
+    {
+      "name": "hsn",
+      "email": "abc@mail.com",
+      "password": "123",
+      "id": 1
+    }
+  ]
+}
